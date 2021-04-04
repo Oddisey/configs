@@ -28,7 +28,7 @@
 # Override these settings in your ~/.zshrc
 
 # Current working directory
-AGNOSTER_DIR_FG='#484848'
+AGNOSTER_DIR_FG='#252525'
 AGNOSTER_DIR_BG='#CA8000'
 
 # user@host
@@ -37,9 +37,9 @@ AGNOSTER_CONTEXT_BG='#484848'
 
 #sean
 # Git related
-AGNOSTER_GIT_CLEAN_FG='#484848'
+AGNOSTER_GIT_CLEAN_FG='#252525'
 AGNOSTER_GIT_CLEAN_BG='#778D4E'
-AGNOSTER_GIT_DIRTY_FG='#484848'
+AGNOSTER_GIT_DIRTY_FG='#252525'
 AGNOSTER_GIT_DIRTY_BG='#B89263'
 
 # Mercurial related
