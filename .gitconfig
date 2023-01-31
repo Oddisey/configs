@@ -1,0 +1,10 @@
+[user]
+        name = Sean Collins
+        email = sean@uncannycode.com
+[alias]
+        unstage = reset HEAD --
+        undo = reset --soft HEAD~1
+        co = checkout
+        fa = fetch --all
+        pushf = push --force-with-lease
+        wip = !sh -c 'git add . && git commit -am WIP'
