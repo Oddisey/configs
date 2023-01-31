@@ -8,3 +8,4 @@
         fa = fetch --all
         pushf = push --force-with-lease
         wip = !sh -c 'git add . && git commit -am WIP'
+        astash = !sh -c 'git add . && git stash'
